@@ -1,0 +1,15 @@
+{
+    "name": "Exchange Currency",
+    "short_name": "Exchange Currency",
+    "lang": "fr-FR",
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "exchange.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      }
+    ],
+    "background_color": "#fff"
+  }
